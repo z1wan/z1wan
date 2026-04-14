@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=print(ziwanyu%2C%20profile)&fontSize=70&animation=twinkling)
+![wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=header&text=print(wisesolid%2C%20profile)&fontSize=70&animation=twinkling)
 
 <h2>Jiwan Yoo(wisesolid)</h2>
 <p>
